@@ -1,0 +1,31 @@
+{
+  "name": "@odopod/eslint-config",
+  "description": "Odopod's eslint config",
+  "main": "index.js",
+  "version": "1.0.0-beta.0",
+  "author": "Odopod",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "odopod"
+  ],
+  "license": "MIT",
+  "repository": "odopod/eslint-config-odopod",
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "eslint": ">=3.16.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.16.0"
+  }
+}
