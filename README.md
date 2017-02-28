@@ -1,4 +1,4 @@
-# eslint-config-odopod
+# eslint-config-odopod [![Build Status](https://travis-ci.org/odopod/eslint-config-odopod.svg?branch=master)](https://travis-ci.org/odopod/eslint-config-odopod)
 
 > ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) by [odopod](http://www.odopod.com)
 
