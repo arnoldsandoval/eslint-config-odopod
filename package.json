@@ -18,11 +18,11 @@
     "test": "ava"
   },
   "dependencies": {
-    "eslint-config-airbnb-base": "^11.3.0",
+    "eslint-config-airbnb-base": "^12.0.0",
     "eslint-plugin-import": "^2.7.0"
   },
   "devDependencies": {
-    "ava": "^0.21.0",
+    "ava": "^0.22.0",
     "eslint": ">=4.3.0"
   },
   "peerDependencies": {
